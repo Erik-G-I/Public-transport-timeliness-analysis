@@ -1,0 +1,28 @@
+Null value percentage "AvgangstidFaktisk" before removing extraordinary days during christmas and easter
+
+Line 3      : 0.662712043125739,    Total rows: 1071657
+Line 6      : 0.3610797164203203,   Total rows: 953806
+Line 12     : 0.24911922775400716,  Total rows: 846984
+Line 14     : 0.3362231036250803,   Total rows: 339358
+Line 16E    : 0.25116442433754554,  Total rows: 905383
+Line 19     : 0.6752639972948202,   Total rows: 969991
+Line 20     : 0.19394856460048396,  Total rows: 666156
+* Line 22   : 1.1303085895785987,   Total rows: 365210
+Line 23     : 0.5548326729922952,   Total rows: 136798
+Line 23E    : 0.4947916666666667,   Total rows: 11520
+* Line 26   : 0.9998680377209099,   Total rows: 98513
+Line 27     : 0.6722904002228789,   Total rows: 218953
+Line 30     : 0.6478125904166891,   Total rows: 203917
+Line 36     : 0.553866203301477,    Total rows: 257824
+Line 37     : 0.6521246642286158,   Total rows: 185394
+Line 39     : 0.43587508332906005,  Total rows: 19501
+* Line 81   : 1.5234653818700927,   Total rows: 44832
+* Line 300  : 0.9767385946985634,   Total rows: 332740
+* Line 300E : 1.3501350135013501,   Total rows: 12221
+* Line 310  : 1.972131405493295,    Total rows: 171591
+* Line 313  : 3.0792397964482294,   Total rows: 57774
+
+
+
+
+MEAN NULL PERCENTAGE: 0.8463329132203199
