@@ -1,0 +1,49 @@
+
+========================================= MIDTUN - ÅSANE =========================================
+
+Midtun-Åsane: 16E-20-27:
+[{'expectedStartTime': '12:23:00', 'expectedEndTime': '12:27:00', 'line': '16E', 'fromPlace': 'Midtun', 'toPlace': 'Nesttun terminal'}, {'expectedStartTime': '12:30:00', 'expectedEndTime': '12:47:00', 'line': '20', 'fromPlace': 'Nesttun terminal', 'toPlace': 'Haukeland sjukehus'}, {'expectedStartTime': '12:50:00', 'expectedEndTime': '13:10:00', 'line': '27', 'fromPlace': 'Haukeland sjukehus', 'toPlace': 'Åsane terminal'}]
+
+Midtun-Åsane: 16E-walk-27:
+[{'expectedStartTime': '12:24:00', 'expectedEndTime': '13:05:00', 'line': '16E', 'fromPlace': 'Midtun', 'toPlace': 'Haukeland sjukehus sør'}, {"expectedStartTime": "07:33:00","expectedEndTime": "07:36:00", "line": "walk", "fromPlace": 'Haukeland sjukehus sør', "toPlace" : 'Haukeland sjukehus sør'},{'expectedStartTime': '13:07:00', 'expectedEndTime': '13:15:00', 'line': '27', 'fromPlace': 'Haukeland sjukehus sør', 'toPlace': 'Åsane terminal'}]
+
+Midtun-Åsane: 16E-3:
+[{'expectedStartTime': '12:24:00', 'expectedEndTime': '13:05:00', 'line': '16E', 'fromPlace': 'Midtun', 'toPlace': 'Handelshøyskolen'}, {'expectedStartTime': '13:07:00', 'expectedEndTime': '13:15:00', 'line': '3', 'fromPlace': 'Handelshøyskolen', 'toPlace': 'Åsane terminal'}]
+
+Midtun-Åsane: 16E-300:
+[{'expectedStartTime': '12:24:00', 'expectedEndTime': '13:05:00', 'line': '16E', 'fromPlace': 'Midtun', 'toPlace': 'Gamle Bergen'}, {'expectedStartTime': '13:07:00', 'expectedEndTime': '13:15:00', 'line': '300', 'fromPlace': 'Gamle Bergen', 'toPlace': 'Åsane terminal'}]
+
+
+Midtun-Åsane: 16E-27 using Handelshøyskolen:
+[{'expectedStartTime': '12:24:00', 'expectedEndTime': '13:05:00', 'line': '16E', 'fromPlace': 'Midtun', 'toPlace': 'Handelshøyskolen'}, {'expectedStartTime': '13:07:00', 'expectedEndTime': '13:15:00', 'line': '27', 'fromPlace': 'Handelshøyskolen', 'toPlace': 'Åsane terminal'}]
+
+Midtun-Åsane: 16E-300 using Handelshøyskolen:
+[{'expectedStartTime': '12:24:00', 'expectedEndTime': '13:05:00', 'line': '16E', 'fromPlace': 'Midtun', 'toPlace': 'Handelshøyskolen'}, {'expectedStartTime': '13:07:00', 'expectedEndTime': '13:15:00', 'line': '300', 'fromPlace': 'Handelshøyskolen', 'toPlace': 'Åsane terminal'}] 
+
+Midtun-Åsane: 16E-3/27/300:
+[{'expectedStartTime': '12:24:00', 'expectedEndTime': '13:05:00', 'line': '16E', 'fromPlace': 'Midtun', 'toPlace': 'Handelshøyskolen'}, {'expectedStartTime': '13:07:00', 'expectedEndTime': '13:15:00', 'line': '3/27/300', 'fromPlace': 'Handelshøyskolen', 'toPlace': 'Åsane terminal'}]
+
+==================================================================================================
+
+
+=================================== FLORIDA - NATTLANDSFJELLET ===================================
+
+Florida-Nattland: 12-walk-81:
+[{'expectedStartTime': '18:53:00', 'expectedEndTime': '19:13:00', 'line': '12', 'fromPlace': 'Florida', 'toPlace': 'Mannsverk garasje'}, {'expectedStartTime': '19:13:00', 'expectedEndTime': '19:14:42', 'line': 'walk', 'fromPlace': 'Mannsverk garasje', 'toPlace': 'Mannsverk'}, {'expectedStartTime': '19:35:00', 'expectedEndTime': '19:41:00', 'line': '81', 'fromPlace': 'Mannsverk', 'toPlace': 'Nattlandsfjellet'}]
+
+Florida-Nattland: walk-20-81:
+[{'expectedStartTime': '16:02:00', 'expectedEndTime': '16:12:00', 'line': 'walk', 'fromPlace': 'Florida', 'toPlace': 'Krohnsminde'}, {'expectedStartTime': '16:12:00', 'expectedEndTime': '16:22:00', 'line': '20', 'fromPlace': 'Krohnsminde', 'toPlace': 'Mannsverk'}, {'expectedStartTime': '16:35:00', 'expectedEndTime': '16:41:00', 'line': '81', 'fromPlace': 'Mannsverk', 'toPlace': 'Nattlandsfjellet'}]
+
+Florida-Nattland: 12-16E-81:
+[{'expectedStartTime': '08:13:00', 'expectedEndTime': '08:19:00', 'line': '12', 'fromPlace': 'Florida', 'toPlace': 'Haukeland sjukehus nord'}, {'expectedStartTime': '08:22:00', 'expectedEndTime': '08:28:00', 'line': '16E', 'fromPlace': 'Haukeland sjukehus nord', 'toPlace': 'Mannsverk'}, {'expectedStartTime': '08:35:00', 'expectedEndTime': '08:41:00', 'line': '81', 'fromPlace': 'Mannsverk', 'toPlace': 'Nattlandsfjellet'}]
+
+Florida-Nattland: 12-6-81:
+[{'expectedStartTime': '08:13:00', 'expectedEndTime': '08:19:00', 'line': '12', 'fromPlace': 'Florida', 'toPlace': 'Haukeland sjukehus nord'}, {'expectedStartTime': '08:22:00', 'expectedEndTime': '08:28:00', 'line': '6', 'fromPlace': 'Haukeland sjukehus nord', 'toPlace': 'Mannsverk'}, {'expectedStartTime': '08:35:00', 'expectedEndTime': '08:41:00', 'line': '81', 'fromPlace': 'Mannsverk', 'toPlace': 'Nattlandsfjellet'}]
+
+Florida-Nattland: 12-6/16E-81:
+[{'expectedStartTime': '08:13:00', 'expectedEndTime': '08:19:00', 'line': '12', 'fromPlace': 'Florida', 'toPlace': 'Haukeland sjukehus nord'}, {'expectedStartTime': '08:22:00', 'expectedEndTime': '08:28:00', 'line': '6/16E', 'fromPlace': 'Haukeland sjukehus nord', 'toPlace': 'Mannsverk'}, {'expectedStartTime': '08:35:00', 'expectedEndTime': '08:41:00', 'line': '81', 'fromPlace': 'Mannsverk', 'toPlace': 'Nattlandsfjellet'}]
+
+Florida-Nattland: 12-6/20-81:
+[{'expectedStartTime': '08:13:00', 'expectedEndTime': '08:19:00', 'line': '12', 'fromPlace': 'Florida', 'toPlace': 'Langhaugen'}, {'expectedStartTime': '08:22:00', 'expectedEndTime': '08:28:00', 'line': '6/20', 'fromPlace': 'Langhaugen', 'toPlace': 'Mannsverk'}, {'expectedStartTime': '08:35:00', 'expectedEndTime': '08:41:00', 'line': '81', 'fromPlace': 'Mannsverk', 'toPlace': 'Nattlandsfjellet'}]
+
+==================================================================================================
